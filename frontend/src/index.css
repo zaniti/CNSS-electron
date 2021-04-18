@@ -52,7 +52,7 @@ body{
   color : white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .login-container{
@@ -64,7 +64,7 @@ body{
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-}
+} 
 
 .welcome button{
   background-color: #183c75;
@@ -72,7 +72,7 @@ body{
   line-height: 23px;
   padding: 10px 28px;
   border: none;
-}
+} 
 
 .welcome{
   color: white;
@@ -91,6 +91,10 @@ body{
   color: white;
 }
 
+.footer p {
+  margin:0;
+}
+
 .login-form{
   background-color: white;
   padding: 60px;
@@ -103,3 +107,5 @@ body{
 .login-form h1{
   font-weight: 200;
 }
+
+
